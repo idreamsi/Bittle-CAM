@@ -473,7 +473,7 @@ void setup() {
   Serial.println(IP);
 
 
-  Serial.print("Petoi-CAM Ready! Use 'http://");
+  Serial.print("Bittle-CAM Ready! Use 'http://");
   Serial.print(WiFi.softAPIP());
   Serial.println("' to connect");
   
